@@ -1,0 +1,29 @@
+1. Addtodo
+- take value of textbox
+- tasks array global
+- append value of textbox to array
+- takes all the elements in the array
+- clear the html
+- show all tasks
+
+ 
+
+
+2. delete task
+- assign id to paragraph
+- filter out element with that id in global var
+- takes all the elements in the array
+- clear the html
+- show all tasks
+
+ 
+
+3. done todo
+- added status to the global var
+- added checkbox to each todo
+- add checkbox change
+- find which element has to be changed
+- change status from 1 to 0 or 0 to 1
+- takes all the elements in the array
+- clear the html
+- show all tasks
